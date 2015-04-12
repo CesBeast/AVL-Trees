@@ -1,0 +1,48 @@
+
+Test 1
+10 20 30 40 50 60 70 
+40 20 10 30 60 50 70 
+Tree is height balanced? : true
+Tree height: 3
+Node count: 7
+
+Test 2
+89 is in tree? false
+50 is in tree? true
+
+Test 3
+10 20 30 50 
+20 10 50 30 
+Tree is height balanced? : true
+Tree height: 3
+Node count: 4
+
+Test 4
+true  true  true  true  false  
+Empty Tree
+Empty Tree
+Tree is height balanced? : true
+Tree height: 0
+Node count: 0
+
+Test 5
+100 100 100 100 100 100 100 100 100 
+100 100 100 100 100 100 100 100 100 
+Tree is height balanced? : true
+Tree height: 4
+Node count: 9
+
+Test 6
+4/true  3/true  3/true  3/true  3/true  2/true  2/true  1/true  0/true  
+
+Test 7
+Tree is height balanced? : true
+Tree height: 21
+Node count: 5000
+log2(5000)  = 12.28771237954945
+
+Test 8
+ 50 is still in the tree? false
+Tree is height balanced? : true
+Tree height: 21
+Node count: 4947
